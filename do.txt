@@ -1,0 +1,1 @@
+1. use discord rat 1 to run !steal, !run etc. (src py)
