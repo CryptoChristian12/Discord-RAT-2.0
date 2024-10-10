@@ -7,7 +7,7 @@ The output file size also around ~75kb!
 
 ## **Disclaimer:**
 
-This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
+This tool is for educational use only, the authors will not be held responsible for any misuse of this tool.
 
 ## **Credits**
 The Discord Rat was made by moom825. Huge thanks. I just added the stealer and runner.
