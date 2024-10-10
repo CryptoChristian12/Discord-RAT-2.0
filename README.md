@@ -12,6 +12,7 @@ This tool is for educational use only, the author will not be held responsible f
 ## **Credits**
 The Discord Rat was made by moom825. Huge thanks. I just added the stealer and runner.
 The stealer was made by can-kat. Huge thanks too, I just added the command.
+The ransom was made by YT @w3w3w3. He's a legend, show him some love.
 The rootkit in the project was made by "bytecode77". The source of the rootkit can be found here: https://github.com/bytecode77/r77-rootkit
 
 ## **Setup Guide:**
